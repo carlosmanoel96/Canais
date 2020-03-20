@@ -2,5 +2,5 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="Animal Planet",
+#EXTINF:-1 tvg-logo="" group-title="Animal Planet",
 http://proxyts.canais.vip:8084/hls1/animalplanet.m3u8
